@@ -51,7 +51,7 @@ The simulation showcases miners competing to add blocks to the chain, clients ge
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Koorbik/Java-Blockchain.git](https://github.com/Koorbik/Java-Blockchain.git)
+    git clone https://github.com/Koorbik/Java-Blockchain.git
     cd Java-Blockchain
     ```
 
